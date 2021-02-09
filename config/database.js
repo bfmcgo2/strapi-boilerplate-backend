@@ -21,6 +21,7 @@ module.exports = ({ env }) => {
             ssl: false,
           },
         },
+      }
     }
   }
   return {
